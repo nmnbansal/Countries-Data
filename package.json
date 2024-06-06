@@ -1,0 +1,9 @@
+{
+  "name": "country-data-functions",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "dependencies": {}
+}
